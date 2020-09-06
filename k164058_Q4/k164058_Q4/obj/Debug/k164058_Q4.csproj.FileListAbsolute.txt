@@ -1,0 +1,12 @@
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\bin\Debug\k164058_Q4.exe.config
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\bin\Debug\k164058_Q4.exe
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\bin\Debug\k164058_Q4.pdb
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\obj\Debug\k164058_Q4.csprojAssemblyReference.cache
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\obj\Debug\k164058_Q4.ProjectInstaller.resources
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\obj\Debug\k164058_Q4.csproj.GenerateResource.cache
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\obj\Debug\k164058_Q4.csproj.CoreCompileInputs.cache
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\obj\Debug\k164058_Q4.csproj.CopyComplete
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\obj\Debug\k164058_Q4.exe
+C:\Users\khan\source\repos\k164058_Q4\k164058_Q4\obj\Debug\k164058_Q4.pdb

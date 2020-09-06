@@ -1,0 +1,12 @@
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe.config
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.pdb
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\obj\Debug\k164057_Q2.csproj.CoreCompileInputs.cache
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\obj\Debug\k164057_Q2.exe
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\obj\Debug\k164057_Q2.pdb
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\obj\Debug\k164057_Q2.ProjectInstaller.resources
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\obj\Debug\k164057_Q2.csproj.GenerateResource.cache
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\obj\Debug\k164057_Q2.csproj.CopyComplete
+C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\obj\Debug\k164057_Q2.csprojAssemblyReference.cache

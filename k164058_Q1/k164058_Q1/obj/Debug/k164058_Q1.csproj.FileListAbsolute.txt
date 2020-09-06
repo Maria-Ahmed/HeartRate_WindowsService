@@ -1,0 +1,26 @@
+C:\Users\haris\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csprojAssemblyReference.cache
+C:\Users\haris\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.Form1.resources
+C:\Users\haris\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.cache
+C:\Users\haris\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\DemoApp\DemoApp\bin\Debug\k164058_Q1.exe.config
+C:\Users\haris\source\repos\DemoApp\DemoApp\bin\Debug\k164058_Q1.exe
+C:\Users\haris\source\repos\DemoApp\DemoApp\bin\Debug\k164058_Q1.pdb
+C:\Users\haris\source\repos\DemoApp\DemoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\haris\source\repos\DemoApp\DemoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\haris\source\repos\DemoApp\DemoApp\obj\Debug\k164058_Q1.Properties.Resources.resources
+C:\Users\haris\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CopyComplete
+C:\Users\haris\source\repos\DemoApp\DemoApp\obj\Debug\k164058_Q1.exe
+C:\Users\haris\source\repos\DemoApp\DemoApp\obj\Debug\k164058_Q1.pdb
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\bin\Debug\k164058_Q1.exe.config
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\bin\Debug\k164058_Q1.exe
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\bin\Debug\k164058_Q1.pdb
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\obj\Debug\k164058_Q1.csprojAssemblyReference.cache
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\obj\Debug\DemoApp.Form1.resources
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\obj\Debug\k164058_Q1.Properties.Resources.resources
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\obj\Debug\k164058_Q1.csproj.GenerateResource.cache
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\obj\Debug\k164058_Q1.csproj.CoreCompileInputs.cache
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\obj\Debug\k164058_Q1.csproj.CopyComplete
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\obj\Debug\k164058_Q1.exe
+C:\Users\khan\Desktop\IPT assignment\k164058_Q1\k164058_Q1\obj\Debug\k164058_Q1.pdb

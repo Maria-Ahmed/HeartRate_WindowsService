@@ -1,0 +1,596 @@
+﻿Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe assembly.
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Attempt to stop service k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Attempt to stop service k164057_Q2.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Creating EventLog source k164057_Q2 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164057_Q2.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+Removing EventLog source k164057_Q2.
+Service k164057_Q2 is being removed from the system...
+Service k164057_Q2 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 
+Installing service k164057_Q2...
+Service k164057_Q2 has been successfully installed.
+Creating EventLog source k164057_Q2 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164057_Q2\k164057_Q2\bin\Debug\k164057_Q2.exe
+   logtoconsole = 

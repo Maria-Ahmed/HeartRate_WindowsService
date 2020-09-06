@@ -1,0 +1,11 @@
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\obj\Debug\k164058_Q3.csproj.CoreCompileInputs.cache
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe.config
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.pdb
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\obj\Debug\k164058_Q3.csproj.CopyComplete
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\obj\Debug\k164058_Q3.exe
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\obj\Debug\k164058_Q3.pdb
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\obj\Debug\k164058_Q3.ProjectInstaller.resources
+C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\obj\Debug\k164058_Q3.csproj.GenerateResource.cache

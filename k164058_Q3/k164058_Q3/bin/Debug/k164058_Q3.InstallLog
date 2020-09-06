@@ -1,0 +1,97 @@
+﻿Installing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe assembly.
+Committing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe assembly.
+Installing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+Installing service k164058_Q3...
+Service k164058_Q3 has been successfully installed.
+Creating EventLog source k164058_Q3 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+Installing service k164058_Q3...
+Creating EventLog source k164058_Q3 in log Application...
+Rolling back assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+Restoring event log to previous state for source k164058_Q3.
+Uninstalling assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+Removing EventLog source k164058_Q3.
+Service k164058_Q3 is being removed from the system...
+Service k164058_Q3 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+Installing service k164058_Q3...
+Service k164058_Q3 has been successfully installed.
+Creating EventLog source k164058_Q3 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+Removing EventLog source k164058_Q3.
+Service k164058_Q3 is being removed from the system...
+Service k164058_Q3 was successfully removed from the system.
+Installing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
+Installing service k164058_Q3...
+Service k164058_Q3 has been successfully installed.
+Creating EventLog source k164058_Q3 in log Application...
+Committing assembly 'C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.InstallLog
+   assemblypath = C:\Users\khan\source\repos\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+   logtoconsole = 
